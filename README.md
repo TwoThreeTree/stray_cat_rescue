@@ -11,7 +11,7 @@ First Draft
  
  (3) Functionalities: 
       1. Admin is able to modify current cats information (*Authentification, Delete, Upload, storage .. handled by Firebase)
-      2. 
+      2. Community Forum, users can share stories and publish posts (* above)
  
  (4) Design Process: Using figma to design various prototypes, 
  
